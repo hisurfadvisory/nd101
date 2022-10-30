@@ -1,6 +1,6 @@
 # nd101
 
-These are encoded powershell commands I use to simulate second-stage malware activity. Useful for demonstrating to your leadership why allowing unrestricted powershell to access the internet from your enterprise is a bad idea.
+These are encoded powershell commands I use to simulate second-stage malware activity. Useful for demonstrating to your leadership why allowing unrestricted powershell to access the internet from your enterprise is a bad idea. The first two lines will create a phony pdf in your current directory, and write a nonsense string into it. The last line pretends to open a python HTTP listener (it simply writes the command to your screen, doesn't actually execute it).
 
 TmV3LUl0ZW0gLU5hbWUgJzczNzA2MTc3NjE3MjczNzU2MzZiNzMucGRmJw==
 
