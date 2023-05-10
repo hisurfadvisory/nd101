@@ -8,3 +8,5 @@ U2V0LUNvbnRlbnQgJy8vYWNlZ2l7Z3JhYmFsbHRoZWdvb2RpZXN9JyAtcGF0aCAuXDczNzA2MTc3NjE3
 
 cG93ZXJzaGVsbCB7IFdyaXRlLUhvc3QgJ1NJTVVMQVRJTkcgRVhGSUw6ICBweXRob24zIC1tIGh0dHAuc2VydmVyIDgwMDAnIH0=
 
+
+There is also a jpg file, "Avatar2", that contains an embedded text file with additional powershell commands that pop a useless notification window. They can be extracted with the steghide utility using the passkey "Avatar2". The plaintext commands are also located at the tail-end of the file.
